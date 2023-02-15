@@ -1,0 +1,19 @@
+.container{
+    margin: auto;
+    width: 80%;
+    padding: 20px;
+    background-color: rgb(171, 225, 237);
+    position: relative;
+    margin: auto;
+}
+h1{
+    color: rgb(171, 2, 2);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+li{
+    font-size: 20px;
+}
